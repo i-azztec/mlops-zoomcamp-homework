@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlops-zoomcamp-homework/03-orchestration/mlflow/657258241821004836/66f142f4a132428aa25edf18a49d0a39/artifacts
+end_time: 1749316685272
+entry_point_name: ''
+experiment_id: '657258241821004836'
+lifecycle_stage: active
+run_id: 66f142f4a132428aa25edf18a49d0a39
+run_name: capable-finch-534
+run_uuid: 66f142f4a132428aa25edf18a49d0a39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749316679743
+status: 3
+tags: []
+user_id: codespace

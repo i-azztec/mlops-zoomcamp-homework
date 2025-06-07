@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlops-zoomcamp-homework/03-orchestration/mlflow/657258241821004836/a2540f523c6f43bc9a39739300d1e004/artifacts
+end_time: 1749316233265
+entry_point_name: ''
+experiment_id: '657258241821004836'
+lifecycle_stage: active
+run_id: a2540f523c6f43bc9a39739300d1e004
+run_name: treasured-zebra-177
+run_uuid: a2540f523c6f43bc9a39739300d1e004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749316230782
+status: 4
+tags: []
+user_id: codespace

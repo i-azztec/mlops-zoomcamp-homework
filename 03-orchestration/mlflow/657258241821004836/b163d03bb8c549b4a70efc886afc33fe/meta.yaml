@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlops-zoomcamp-homework/03-orchestration/mlflow/657258241821004836/b163d03bb8c549b4a70efc886afc33fe/artifacts
+end_time: 1749317828008
+entry_point_name: ''
+experiment_id: '657258241821004836'
+lifecycle_stage: active
+run_id: b163d03bb8c549b4a70efc886afc33fe
+run_name: powerful-boar-291
+run_uuid: b163d03bb8c549b4a70efc886afc33fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749317812797
+status: 3
+tags: []
+user_id: codespace

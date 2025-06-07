@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlops-zoomcamp-homework/03-orchestration/mlflow/657258241821004836/6a2631e0e6e54b14a71219d69e40a965/artifacts
+end_time: 1749317155375
+entry_point_name: ''
+experiment_id: '657258241821004836'
+lifecycle_stage: active
+run_id: 6a2631e0e6e54b14a71219d69e40a965
+run_name: loud-dog-180
+run_uuid: 6a2631e0e6e54b14a71219d69e40a965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749317140333
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlops-zoomcamp-homework/03-orchestration/mlflow/657258241821004836/ba4fb3158ef249de87ccec38896ccd61/artifacts
+end_time: 1749316331153
+entry_point_name: ''
+experiment_id: '657258241821004836'
+lifecycle_stage: active
+run_id: ba4fb3158ef249de87ccec38896ccd61
+run_name: zealous-bird-960
+run_uuid: ba4fb3158ef249de87ccec38896ccd61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749316325425
+status: 3
+tags: []
+user_id: codespace
