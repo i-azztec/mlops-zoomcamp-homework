@@ -72,6 +72,9 @@ def train_model(X_train, y_train, X_val, y_val, dv):
         model_size = os.path.getsize("models/linear_regression.b")
         mlflow.log_metric("model_size_bytes", model_size)
 
+        print("Intercept of the model:", lr.intercept_)
+        print("Model_size_bytes:", model_size)
+
         return run.info.run_id
 
 
@@ -95,6 +98,8 @@ def run(year, month):
 
 
 if __name__ == "__main__":
+    print("Starting the training process...")
+
     parser = argparse.ArgumentParser(description='Train a model to predict taxi trip duration.')
     parser.add_argument('--year', type=int, required=True, help='Year of the data to train on')
     parser.add_argument('--month', type=int, required=True, help='Month of the data to train on')
@@ -104,3 +109,5 @@ if __name__ == "__main__":
 
     with open("run_id.txt", "w") as f:
         f.write(run_id)
+
+    print(f"Training completed. Run ID: {run_id}")
