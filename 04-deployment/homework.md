@@ -145,12 +145,12 @@ file, we upload it to the cloud storage.
 Modify your code to upload the parquet file to S3/GCS/etc.
 
 
-## Bonus: Use Mage for batch inference
+## Bonus: Use an orchestrator for batch inference
 
 Here we didn't use any orchestration. In practice we usually do.
 
 * Split the code into logical code blocks
-* Use Mage to orchestrate the execution
+* Use a workflow orchestrator for the code execution
 
 ## Publishing the image to dockerhub
 
@@ -169,5 +169,5 @@ This is just for your reference, you don't need to do it.
 
 ## Submit the results
 
-* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2024/homework/hw4
+* Submit your results here: https://courses.datatalks.club/mlops-zoomcamp-2025/homework/hw4
 * It's possible that your answers won't match exactly. If it's the case, select the closest one.
