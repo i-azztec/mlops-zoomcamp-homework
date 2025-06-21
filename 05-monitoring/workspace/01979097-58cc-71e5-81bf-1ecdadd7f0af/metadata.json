@@ -1,0 +1,17 @@
+{
+  "id": "01979097-58cc-71e5-81bf-1ecdadd7f0af",
+  "name": "taxi_monitoring",
+  "description": null,
+  "dashboard": {
+    "name": "taxi_monitoring",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "org_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2025-06-21T06:45:27.244186",
+  "version": "1"
+}
